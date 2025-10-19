@@ -335,14 +335,6 @@ Contributions are welcome! Please feel free to:
 - Submit pull requests
 - Improve documentation
 
-## 📄 License
-
-This project is for educational purposes. The Multi30k dataset has its own license terms.
-
-## 👤 Author
-
-Created as an educational resource for learning sequence-to-sequence models and neural machine translation.
-
 ## 🙏 Acknowledgments
 
 - Multi30k dataset creators
